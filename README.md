@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **e-commerce app, food app**
 
-- 🌱 I’m currently learning **Flutter, Dart, Kotlin**
+- 🌱 I’m currently working **Flutter, Dart, Kotlin, Java**
 
 - 👯 I’m looking to collaborate on **OS customization**
 
-- 🤝 I’m looking for help with **Kotlin Project**
+- 🤝 I’m looking for help with **Flutter and Kotlin Project**
 
 - 👨‍💻 All of my projects are available at [www.github.com/giasuddin2548](www.github.com/giasuddin2548)
 
-- 💬 Ask me about **Kotlin, Java, MVVM,**
+- 💬 Ask me about **Dart, flutter, Kotlin, Java, MVVM,**
 
 - 📫 How to reach me **giasuddin2548@gmail.com**
 
