@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giasuddin2548" alt="giasuddin2548" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/giasuddin2548" target="blank"><img src="https://img.shields.io/twitter/follow/giasuddin2548?logo=twitter&style=for-the-badge" alt="giasuddin2548" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/giasuddin2548" target="blank"><img src="https://img.shields.io/twitter/follow/giasuddin2548?logo=twitter&style=for-the-badge" alt="giasuddin2548" /></a> 
+    <a href="https://www.facebook.com/giasuddin2548" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="giasuddin2548" /></a> 
+
+</p>
+
 
 - 🔭 I’m currently working on **e-commerce app, food app**
 
