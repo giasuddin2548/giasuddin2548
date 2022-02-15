@@ -12,7 +12,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **e-commerce app, food app**
+- 🔭 I’m currently working on **Banking Management Solution, e-commerce application**
 
 - 🌱 I’m currently working **Flutter, Dart, Kotlin, Java**
 
