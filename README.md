@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Dart, flutter, Kotlin, Java, MVVM,**
 
-- 📫 How to reach me **giasuddin2548@gmail.com**
+- 📫 How to reach me **giasuddinsamir@gmail.com**
 
 - ⚡ Fun fact **I think am not funny**
 
